@@ -19,14 +19,30 @@ Platform assembly: D:\École_Pour l'Informatique et les Techniques Avancées\Spr
 Loading D:\École_Pour l'Informatique et les Techniques Avancées\Sprecialized Semsester\PRI\Unity_Main_Menu\GameMenu_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: D:\École_Pour l'Informatique et les Techniques Avancées\Sprecialized Semsester\PRI\Unity_Main_Menu\GameMenu_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading D:\École_Pour l'Informatique et les Techniques Avancées\Sprecialized Semsester\PRI\Unity_Main_Menu\GameMenu_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.122 seconds
+- Completed reload, in  0.127 seconds
 Platform assembly: D:\École_Pour l'Informatique et les Techniques Avancées\Sprecialized Semsester\PRI\Unity_Main_Menu\GameMenu_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\École_Pour l'Informatique et les Techniques Avancées\Sprecialized Semsester\PRI\Unity_Main_Menu\GameMenu_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 5.161866 ms
+UnloadTime: 3.852634 ms
+I'm pressed in Option if
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm pressed in Option else
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm pressed in Option if
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm pressed in Option else
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2d20 -> priority: 1 
-  Thread -> id: 243c -> priority: 1 
+  Thread -> id: 2280 -> priority: 1 
+  Thread -> id: 2d40 -> priority: 1 
